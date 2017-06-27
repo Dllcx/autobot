@@ -1,2 +1,3 @@
-# autobot
-Automatos - automating boring tasks
+# Autobot
+Automatos - automating boring stuff
+Python
